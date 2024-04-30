@@ -29,3 +29,21 @@ where token is your discord bot's token.
 8. Paste the token into the `config.json` file's `token` field:
 
 
+## Usage
+
+**Disabling the bot's commands in a channel**
+
+To disable the bot's commands in a certain channel as a server admin:
+
+1. Go to `Server Settings -> Integrations`
+2. In the `Integrations` page, select the bot.
+3. In the `Channels` section, you can now manage the channels where the bot's slash commands can be used.
+   - e.g., if you only allow #general, then users won't be able to see or use the slash commands in any other channel.
+     ![](https://i.gyazo.com/e9ffcd901ed366e83d458345b88b3905.png)
+
+
+
+
+
+ 
+
