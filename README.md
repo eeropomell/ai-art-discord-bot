@@ -1,6 +1,13 @@
 # Discord AI Art Generator Bot
 
-An open-source Discord bot that leverages AI to generate art based on user prompts with Stable Diffusion. This bot uses the discord.js library for Discord interactions and Civitai's SDK for generating images. 
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/rSgTS8CSH3)](https://discord.gg/https://discord.gg/rSgTS8CSH3)
+
+![AiArtGamesHeader (1)](https://github.com/user-attachments/assets/c070e0c2-5161-459f-8b21-4dc183ce1bdb)
+
+
+This bot is a fork of AI Art Games bot, an entertainment and utility Discord bot designed for AI art servers, made by Eero Pomell, originally for Civitai's Discord server. This open source version of the bot doesn't have all features like leaderboards, as they would make the bot less accessible and harder to setup. The prerequisites for getting started with the bot are listed below.
+
+Feel free to fork this and develop your own custom AI art bot!
 
 ## Features
 
@@ -74,6 +81,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 This bot is an open-source continuation of discord bot AI Art Games by me (Eero), that I developed over January to April 2024. It was used in Civitai's community server and 100 other AI art servers. 
+
+![zoomVid](https://github.com/user-attachments/assets/11f2fe96-e755-4008-a6c2-0e34ee073061)
+
+![help](https://github.com/user-attachments/assets/0f7c6c10-0c82-4b08-aeff-0dfea1e9c673)
+
+![leaderboard](https://github.com/user-attachments/assets/6605642d-47fd-4b44-be84-d9fbdf4cb047)
+
 
 Others:
 - [discord.js](https://discord.js.org/) for the library used to interact with Discord.
